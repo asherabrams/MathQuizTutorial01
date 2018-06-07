@@ -1,0 +1,10 @@
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\bin\Debug\MathQuizTutorial01.exe.config
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\bin\Debug\MathQuizTutorial01.exe
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\bin\Debug\MathQuizTutorial01.pdb
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\obj\Debug\MathQuizTutorial01.csprojAssemblyReference.cache
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\obj\Debug\MathQuizTutorial01.Form1.resources
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\obj\Debug\MathQuizTutorial01.Properties.Resources.resources
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\obj\Debug\MathQuizTutorial01.csproj.GenerateResource.cache
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\obj\Debug\MathQuizTutorial01.csproj.CoreCompileInputs.cache
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\obj\Debug\MathQuizTutorial01.exe
+C:\Users\Asher\source\repos\MathQuizTutorial01\MathQuizTutorial01\obj\Debug\MathQuizTutorial01.pdb
